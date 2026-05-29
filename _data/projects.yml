@@ -27,3 +27,8 @@
   description: "Reclassified OpenPose 2D joint indices using YOLOv8n for improved accuracy."
   github: "https://github.com/DaeeYong/re_identification"
   link: "https://github.com/DaeeYong/re_identification"
+
+- title: " Data_Analysis"
+  description: "Analyze publicly available datasets using a variety of statistical techniques."
+  github: "https://github.com/DaeeYong/Data_Analysis"
+  link: "https://github.com/DaeeYong/Data_Analysis"
